@@ -117,6 +117,15 @@ a.disabled {
   text-decoration: none;
 }
 
+.thumbnail {
+  display: flex;
+}
+
+.thumbnail img {
+  width: 100%;
+  flex-grow: 1;
+}
+
 /* Sunshine Theme */
 .sunshine .series-color {
   color: rgb(244, 223, 67);

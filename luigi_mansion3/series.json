@@ -1,0 +1,10 @@
+{
+    "index": 8,
+    "title": "Luigi's Mansion 3",
+    "description": "Luigi's Mansion 3 (2019) - Switch",
+    "icon": "polterpup.png",
+    "theme": "luigi-mansion3",
+    "background": "hotel.png",
+    "thumbnail": "title.png",
+    "sub_series": ["series"]
+}

@@ -1,0 +1,11 @@
+{
+    "index": 7,
+    "title": "The Origami King",
+    "description": "Paper Mario: The Origami King (2020) - Switch",
+    "theme": "origami-king",
+    "icon": "olivia.png",
+    "background": "castle.png",
+    "thumbnail": "title.png",
+    "sub_series": ["series"],
+    "stylesheets": ["groups.css"]
+}

@@ -1,0 +1,11 @@
+{
+    "index": 4,
+    "title": "Wario Land Shake-It",
+    "description": "Wario Land Shake It (2008) - Wii",
+    "theme": "shake-it",
+    "icon": "shake_king.png",
+    "background": "globe.png",
+    "thumbnail": "title.png",
+    "stylesheets": ["groups.css"],
+    "sub_series": ["series"]
+}

@@ -1,12 +1,11 @@
 {
+    "index": "13",
     "title": "Battle 5-1 | Cortez",
     "description": "The final boss of Keelhaul Key! And my personal favourite in the game!",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-08-03T00:33:13Z",
     "duration": 578,
-    "thumbnail": "t13.png",
-    "video": "v13.mp4",
     "youtube_id": "qVoyt26dyJE",
     "youtube_thumbnail": "https://i.ytimg.com/vi/qVoyt26dyJE/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=qVoyt26dyJE",
     "group": "chapter5"
 }

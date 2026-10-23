@@ -1,12 +1,11 @@
 {
+    "index": "20",
     "title": "Area 4-5 | Bloomsday Blowout",
     "description": "Remembering Wario Land Shake It - Bloomsday Blowout",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2025-02-25T17:00:25Z",
     "duration": 723,
-    "thumbnail": "t20.png",
-    "video": "v20.mp4",
     "youtube_id": "IVmfcmIzKzA",
     "youtube_thumbnail": "https://i.ytimg.com/vi/IVmfcmIzKzA/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=IVmfcmIzKzA",
     "group": "area4"
 }

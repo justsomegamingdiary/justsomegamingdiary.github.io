@@ -1,12 +1,11 @@
 {
+    "index": "04",
     "title": "Battle 1-4 | (Just) Gus",
     "description": "Optional boss fight with Gus... Just Gus. He guards the entrance to east Rogueport.",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-06-12T19:00:28Z",
     "duration": 200,
-    "thumbnail": "t04.png",
-    "video": "v04.mp4",
     "youtube_id": "xe157iule0k",
     "youtube_thumbnail": "https://i.ytimg.com/vi/xe157iule0k/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=xe157iule0k",
     "group": "chapter1"
 }

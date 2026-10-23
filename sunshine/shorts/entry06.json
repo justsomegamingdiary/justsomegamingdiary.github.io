@@ -1,12 +1,10 @@
 {
+    "index": "06",
     "title": "Short 07 | Can You Eat Dirt?",
     "description": "",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-06-05T19:00:26Z",
     "duration": 27,
-    "thumbnail": "https://i.ytimg.com/vi/mQdevsHw-qQ/maxresdefault.jpg",
-    "video": "v06.mp4",
     "youtube_id": "mQdevsHw-qQ",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/mQdevsHw-qQ/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=mQdevsHw-qQ",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/mQdevsHw-qQ/maxresdefault.jpg"
 }

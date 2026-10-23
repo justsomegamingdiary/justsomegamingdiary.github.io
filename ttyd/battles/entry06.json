@@ -1,12 +1,11 @@
 {
+    "index": "06",
     "title": "Battle 2-2 | Magnus von Grapple",
     "description": "The final boss of Chapter 2 and the Boggly Tree! Great run of this boss fight!",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-06-26T19:00:26Z",
     "duration": 390,
-    "thumbnail": "t06.png",
-    "video": "v06.mp4",
     "youtube_id": "d2ijw7QLV5k",
     "youtube_thumbnail": "https://i.ytimg.com/vi/d2ijw7QLV5k/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=d2ijw7QLV5k",
     "group": "chapter2"
 }

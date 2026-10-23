@@ -1,12 +1,10 @@
 {
+    "index": "095",
     "title": "Short 096 | Wickety-Wackety-Whack-A-Do!!!",
     "description": "",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-08-03T00:38:16Z",
     "duration": 11,
-    "thumbnail": "https://i.ytimg.com/vi/cnMVhRAV48Y/mqdefault.jpg",
-    "video": "v095.mp4",
     "youtube_id": "cnMVhRAV48Y",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/cnMVhRAV48Y/mqdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=cnMVhRAV48Y",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/cnMVhRAV48Y/mqdefault.jpg"
 }

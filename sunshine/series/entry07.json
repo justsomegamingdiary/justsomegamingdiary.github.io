@@ -1,12 +1,10 @@
 {
+    "index": "07",
     "title": "Chapter 07 | Delfino Re-Destiny",
     "description": "Our Super Mario Sunshine story continues! Today we collect the remaining shines and blue coins in Delfino Plaza!",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-06-03T19:00:15Z",
     "duration": 2401,
-    "thumbnail": "t07.png",
-    "video": "v07.mp4",
     "youtube_id": "YTtOaRR_usg",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/YTtOaRR_usg/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=YTtOaRR_usg",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/YTtOaRR_usg/maxresdefault.jpg"
 }

@@ -1,12 +1,10 @@
 {
+    "index": "015",
     "title": "Short 016 | 'Sup Stupid",
     "description": "",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-06-14T19:00:14Z",
     "duration": 21,
-    "thumbnail": "https://i.ytimg.com/vi/Umn-GoKkoZY/mqdefault.jpg",
-    "video": "v015.mp4",
     "youtube_id": "Umn-GoKkoZY",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/Umn-GoKkoZY/mqdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=Umn-GoKkoZY",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/Umn-GoKkoZY/mqdefault.jpg"
 }

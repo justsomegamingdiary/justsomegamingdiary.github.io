@@ -1,12 +1,10 @@
 {
+    "index": "00",
     "title": "Short 1 | The BEST KEY in the GAME",
     "description": "This key is so much fun to collect! Even when you miss...",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-12-09T00:37:35Z",
     "duration": 11,
-    "thumbnail": "https://i.ytimg.com/vi/LdXQNc69eJI/maxresdefault.jpg",
-    "video": "v00.mp4",
     "youtube_id": "LdXQNc69eJI",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/LdXQNc69eJI/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=LdXQNc69eJI",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/LdXQNc69eJI/maxresdefault.jpg"
 }

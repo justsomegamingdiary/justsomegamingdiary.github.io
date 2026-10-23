@@ -1,12 +1,11 @@
 {
+    "index": "32",
     "title": "Area 3-8 | [REMATCH] Chortlebot Challenge",
     "description": "Remembering Wario Land Shake It - [REMATCH] Chortlebot Challenge",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2025-04-19T21:00:05Z",
     "duration": 1056,
-    "thumbnail": "t32.png",
-    "video": "v32.mp4",
     "youtube_id": "43qgqUQYiew",
     "youtube_thumbnail": "https://i.ytimg.com/vi/43qgqUQYiew/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=43qgqUQYiew",
     "group": "area3"
 }

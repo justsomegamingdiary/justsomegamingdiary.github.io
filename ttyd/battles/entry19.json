@@ -1,12 +1,11 @@
 {
+    "index": "19",
     "title": "Battle 8-2 | Gloomtail",
     "description": "The third boss of the dragon trio! Not necessarily the order your supposed to fight them in, but this one certainly gave us the most trouble!",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-09-08T19:57:51Z",
     "duration": 559,
-    "thumbnail": "t19.png",
-    "video": "v19.mp4",
     "youtube_id": "BGCa1BRogR4",
     "youtube_thumbnail": "https://i.ytimg.com/vi/BGCa1BRogR4/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=BGCa1BRogR4",
     "group": "chapter8"
 }

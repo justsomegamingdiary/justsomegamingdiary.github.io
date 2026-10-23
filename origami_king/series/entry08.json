@@ -1,12 +1,11 @@
 {
+    "index": "08",
     "title": "Chapter 08 | Lookout Tower, Here We Come!!!",
     "description": "We enter the Overlook Tower and begin our climb to the top! But can't we just take the elevator?",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2025-09-14T21:01:04Z",
     "duration": 1317,
-    "thumbnail": "t08.png",
-    "video": "v08.mp4",
     "youtube_id": "yO_P9s7Y9Oo",
     "youtube_thumbnail": "https://i.ytimg.com/vi/yO_P9s7Y9Oo/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=yO_P9s7Y9Oo",
     "group": "chapter1"
 }

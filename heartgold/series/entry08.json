@@ -1,12 +1,11 @@
 {
+    "index": "08",
     "title": "Entry 08 | The Cave That Unites",
     "description": "We journey through the union cave; that unites... two cave entrances I guess.",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2026-02-11T17:00:33Z",
     "duration": 1092,
-    "thumbnail": "t08.png",
-    "video": "v08.mp4",
     "youtube_id": "G85dYcbrZRw",
     "youtube_thumbnail": "https://i.ytimg.com/vi/G85dYcbrZRw/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=G85dYcbrZRw",
     "group": "badge2"
 }

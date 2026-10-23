@@ -1,12 +1,10 @@
 {
+    "index": "090",
     "title": "Short 091 | Good DETAIL though...",
     "description": "",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-07-20T19:00:13Z",
     "duration": 11,
-    "thumbnail": "https://i.ytimg.com/vi/RebEgQxdBrk/mqdefault.jpg",
-    "video": "v090.mp4",
     "youtube_id": "RebEgQxdBrk",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/RebEgQxdBrk/mqdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=RebEgQxdBrk",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/RebEgQxdBrk/mqdefault.jpg"
 }

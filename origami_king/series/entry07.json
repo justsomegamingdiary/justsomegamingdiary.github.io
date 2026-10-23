@@ -1,12 +1,11 @@
 {
+    "index": "07",
     "title": "Chapter 07 | The Earth Kingdom",
     "description": "We enter the Earth Vellumental Temple in search of the vellumental itself...",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2025-09-13T21:00:34Z",
     "duration": 2230,
-    "thumbnail": "t07.png",
-    "video": "v07.mp4",
     "youtube_id": "VHBbLfw5ZZ4",
     "youtube_thumbnail": "https://i.ytimg.com/vi/VHBbLfw5ZZ4/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=VHBbLfw5ZZ4",
     "group": "chapter1"
 }

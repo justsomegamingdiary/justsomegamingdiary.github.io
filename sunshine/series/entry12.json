@@ -1,12 +1,10 @@
 {
+    "index": "12",
     "title": "Chapter 12 | Failing and Flailing",
     "description": "Our Super Mario Sunshine story continues! Today we continue Bianco Hills, which isn't going so well...",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-06-08T16:00:47Z",
     "duration": 2041,
-    "thumbnail": "t12.png",
-    "video": "v12.mp4",
     "youtube_id": "rLDxmRdSgpY",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/rLDxmRdSgpY/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=rLDxmRdSgpY",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/rLDxmRdSgpY/maxresdefault.jpg"
 }

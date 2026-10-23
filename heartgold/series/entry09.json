@@ -1,12 +1,11 @@
 {
+    "index": "09",
     "title": "Entry 09 | All's Not Well",
     "description": "All's not well in the slowpoke well. Let's get down there and put a stop to it!",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2026-02-21T17:00:14Z",
     "duration": 1123,
-    "thumbnail": "t09.png",
-    "video": "v09.mp4",
     "youtube_id": "AYWsQtgxZxw",
     "youtube_thumbnail": "https://i.ytimg.com/vi/AYWsQtgxZxw/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=AYWsQtgxZxw",
     "group": "badge2"
 }

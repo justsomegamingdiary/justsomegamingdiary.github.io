@@ -1,12 +1,10 @@
 {
+    "index": "29",
     "title": "Short 30 | All The Doors Are OPEN",
     "description": "",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-06-20T19:00:02Z",
     "duration": 13,
-    "thumbnail": "https://i.ytimg.com/vi/1Y3JNB3b0ck/mqdefault.jpg",
-    "video": "v29.mp4",
     "youtube_id": "1Y3JNB3b0ck",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/1Y3JNB3b0ck/mqdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=1Y3JNB3b0ck",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/1Y3JNB3b0ck/mqdefault.jpg"
 }

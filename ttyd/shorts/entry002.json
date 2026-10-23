@@ -1,12 +1,10 @@
 {
+    "index": "002",
     "title": "Short 003 | Epic Blooper Kill",
     "description": "",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-06-06T19:00:23Z",
     "duration": 22,
-    "thumbnail": "https://i.ytimg.com/vi/WkrZsleYZ-M/maxresdefault.jpg",
-    "video": "v002.mp4",
     "youtube_id": "WkrZsleYZ-M",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/WkrZsleYZ-M/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=WkrZsleYZ-M",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/WkrZsleYZ-M/maxresdefault.jpg"
 }

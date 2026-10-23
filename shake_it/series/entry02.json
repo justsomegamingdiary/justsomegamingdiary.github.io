@@ -1,12 +1,11 @@
 {
+    "index": "02",
     "title": "Area 1-2 | Whoopsy Desert",
     "description": "Remembering Wario Land Shake It - Whoopsy Desert",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2025-01-20T18:00:21Z",
     "duration": 834,
-    "thumbnail": "t02.png",
-    "video": "v02.mp4",
     "youtube_id": "sO-qPbVVFZE",
     "youtube_thumbnail": "https://i.ytimg.com/vi/sO-qPbVVFZE/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=sO-qPbVVFZE",
     "group": "area1"
 }

@@ -1,12 +1,10 @@
 {
+    "index": "21",
     "title": "Short 22 | Never Drive on Mountain Roads",
     "description": "",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-06-13T19:00:22Z",
     "duration": 22,
-    "thumbnail": "https://i.ytimg.com/vi/lZ3MKThubaU/mqdefault.jpg",
-    "video": "v21.mp4",
     "youtube_id": "lZ3MKThubaU",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/lZ3MKThubaU/mqdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=lZ3MKThubaU",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/lZ3MKThubaU/mqdefault.jpg"
 }

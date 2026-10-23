@@ -1,12 +1,11 @@
 {
+    "index": "10",
     "title": "Chapter 11 | Ceramics and Canadians",
     "description": "Today we trudge through Area 4, it's cold underbelly, and catch every boo along the way!",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-12-08T23:47:56Z",
     "duration": 1571,
-    "thumbnail": "t10.png",
-    "video": "v10.mp4",
     "youtube_id": "tstIAfrYfWI",
     "youtube_thumbnail": "https://i.ytimg.com/vi/tstIAfrYfWI/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=tstIAfrYfWI",
     "group": "area4"
 }

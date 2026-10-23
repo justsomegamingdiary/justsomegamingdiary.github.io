@@ -1,12 +1,11 @@
 {
+    "index": "14",
     "title": "Entry 14 | The Cow Girl",
     "description": "After we track down the gym leader, it's time for one of the trickier fights of the game!",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2026-04-01T16:00:20Z",
     "duration": 1437,
-    "thumbnail": "t14.png",
-    "video": "v14.mp4",
     "youtube_id": "LDR3atDYHxg",
     "youtube_thumbnail": "https://i.ytimg.com/vi/LDR3atDYHxg/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=LDR3atDYHxg",
     "group": "badge3"
 }

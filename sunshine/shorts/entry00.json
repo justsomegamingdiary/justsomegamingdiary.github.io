@@ -1,12 +1,10 @@
 {
+    "index": "00",
     "title": "Short 01 | Failure is a Part of Life",
     "description": "",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-06-01T23:00:52Z",
     "duration": 10,
-    "thumbnail": "https://i.ytimg.com/vi/SKJ-a1nUt3o/maxresdefault.jpg",
-    "video": "v00.mp4",
     "youtube_id": "SKJ-a1nUt3o",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/SKJ-a1nUt3o/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=SKJ-a1nUt3o",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/SKJ-a1nUt3o/maxresdefault.jpg"
 }

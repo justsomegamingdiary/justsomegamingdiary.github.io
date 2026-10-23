@@ -1,12 +1,10 @@
 {
+    "index": "078",
     "title": "Short 079 | Gandalf the RED",
     "description": "",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-07-16T19:00:14Z",
     "duration": 10,
-    "thumbnail": "https://i.ytimg.com/vi/ZCRN6v5ML70/mqdefault.jpg",
-    "video": "v078.mp4",
     "youtube_id": "ZCRN6v5ML70",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/ZCRN6v5ML70/mqdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=ZCRN6v5ML70",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/ZCRN6v5ML70/mqdefault.jpg"
 }

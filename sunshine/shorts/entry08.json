@@ -1,12 +1,10 @@
 {
+    "index": "08",
     "title": "Short 09 | Pokey Wall Clip",
     "description": "",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-06-08T19:00:02Z",
     "duration": 22,
-    "thumbnail": "https://i.ytimg.com/vi/39FUD9e_I3Y/maxresdefault.jpg",
-    "video": "v08.mp4",
     "youtube_id": "39FUD9e_I3Y",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/39FUD9e_I3Y/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=39FUD9e_I3Y",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/39FUD9e_I3Y/maxresdefault.jpg"
 }

@@ -1,12 +1,11 @@
 {
+    "index": "25",
     "title": "Area 5-5 | Large Fry Cook-Off",
     "description": "Remembering Wario Land Shake It - Large Fry Cook-Off",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2025-03-10T21:00:05Z",
     "duration": 481,
-    "thumbnail": "t25.png",
-    "video": "v25.mp4",
     "youtube_id": "4NtBkoxsDXk",
     "youtube_thumbnail": "https://i.ytimg.com/vi/4NtBkoxsDXk/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=4NtBkoxsDXk",
     "group": "area5"
 }

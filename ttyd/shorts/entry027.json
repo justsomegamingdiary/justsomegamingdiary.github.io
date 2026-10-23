@@ -1,12 +1,10 @@
 {
+    "index": "027",
     "title": "Short 028 | FAILURE is BAD!!!",
     "description": "",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-06-27T17:00:30Z",
     "duration": 16,
-    "thumbnail": "https://i.ytimg.com/vi/Rt2RBdy2fQA/mqdefault.jpg",
-    "video": "v027.mp4",
     "youtube_id": "Rt2RBdy2fQA",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/Rt2RBdy2fQA/mqdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=Rt2RBdy2fQA",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/Rt2RBdy2fQA/mqdefault.jpg"
 }

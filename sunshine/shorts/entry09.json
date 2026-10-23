@@ -1,12 +1,10 @@
 {
+    "index": "09",
     "title": "Short 10 | Petey Piranha Rocket Kill",
     "description": "",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-06-08T19:00:03Z",
     "duration": 36,
-    "thumbnail": "https://i.ytimg.com/vi/2jVmj7PNC0c/maxresdefault.jpg",
-    "video": "v09.mp4",
     "youtube_id": "2jVmj7PNC0c",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/2jVmj7PNC0c/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=2jVmj7PNC0c",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/2jVmj7PNC0c/maxresdefault.jpg"
 }

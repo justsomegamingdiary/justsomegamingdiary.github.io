@@ -1,12 +1,11 @@
 {
+    "index": "45",
     "title": "Area 7-1 | The EPICLOGUE Montage",
     "description": "Remembering Wario Land Shake It - The EPICLOGUE Montage",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2025-05-10T16:45:31Z",
     "duration": 406,
-    "thumbnail": "t45.png",
-    "video": "v45.mp4",
     "youtube_id": "SaKwavIcKLg",
     "youtube_thumbnail": "https://i.ytimg.com/vi/SaKwavIcKLg/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=SaKwavIcKLg",
     "group": "area7"
 }

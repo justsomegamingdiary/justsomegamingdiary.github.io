@@ -1,12 +1,10 @@
 {
+    "index": "36",
     "title": "Short 37 | This Thing Has a Really Jank Hitbox",
     "description": "",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-06-21T19:00:20Z",
     "duration": 28,
-    "thumbnail": "https://i.ytimg.com/vi/iwkkhXnymds/mqdefault.jpg",
-    "video": "v36.mp4",
     "youtube_id": "iwkkhXnymds",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/iwkkhXnymds/mqdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=iwkkhXnymds",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/iwkkhXnymds/mqdefault.jpg"
 }

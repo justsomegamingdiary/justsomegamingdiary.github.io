@@ -1,12 +1,10 @@
 {
+    "index": "04",
     "title": "Short 05 | What Did I Say About Stranger Danger?",
     "description": "",
+    "production_date": "0001-01-01T00:00:00Z",
     "date": "2024-06-05T19:00:12Z",
     "duration": 15,
-    "thumbnail": "https://i.ytimg.com/vi/QKHs1PXnlcI/maxresdefault.jpg",
-    "video": "v04.mp4",
     "youtube_id": "QKHs1PXnlcI",
-    "youtube_thumbnail": "https://i.ytimg.com/vi/QKHs1PXnlcI/maxresdefault.jpg",
-    "youtube_video": "https://www.youtube.com/watch?v=QKHs1PXnlcI",
-    "group": ""
+    "youtube_thumbnail": "https://i.ytimg.com/vi/QKHs1PXnlcI/maxresdefault.jpg"
 }

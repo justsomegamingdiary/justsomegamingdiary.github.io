@@ -16,13 +16,13 @@ for (var i = 0; i < entries?.length; i++) {
         continue
     }
 
-    var tokens = entries[i].querySelector("#duration-dates").innerHTML.split(" | ", 3)
-    if (tokens.length < 2) {
+    var timestamp = entries[i].querySelector("#duration-dates")?.dataset.timestamp
+    if (timestamp == null) {
         continue
     }
 
-    var date = Date.parse(tokens[tokens.length-1])
-    if (date == NaN || date < Date.now()) {
+    var date = Date.parse(timestamp)
+    if (date == NaN || date <= Date.now()) {
         continue
     }
     

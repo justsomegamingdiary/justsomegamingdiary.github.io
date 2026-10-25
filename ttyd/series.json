@@ -7,5 +7,6 @@
     "background": "door.png",
     "thumbnail": "title.png",
     "stylesheets": ["groups.css"],
-    "sub_series": ["series", "battles", "shorts"]
+    "sub_series": ["series", "battles", "shorts"],
+    "completed": true
 }

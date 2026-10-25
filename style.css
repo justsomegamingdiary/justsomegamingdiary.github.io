@@ -126,6 +126,10 @@ a.disabled {
   flex-grow: 1;
 }
 
+.star {
+  color: yellow;
+}
+
 /* Sunshine Theme */
 .sunshine .series-color {
   color: rgb(244, 223, 67);

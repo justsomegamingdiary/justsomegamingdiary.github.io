@@ -7,5 +7,6 @@
     "background": "mansion.png",
     "thumbnail": "title.png",
     "stylesheets": ["groups.css"],
-    "sub_series": ["series", "shorts"]
+    "sub_series": ["series", "shorts"],
+    "completed": true
 }

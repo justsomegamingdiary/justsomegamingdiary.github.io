@@ -7,5 +7,6 @@
     "background": "globe.png",
     "thumbnail": "title.png",
     "stylesheets": ["groups.css"],
-    "sub_series": ["series"]
+    "sub_series": ["series"],
+    "completed": true
 }

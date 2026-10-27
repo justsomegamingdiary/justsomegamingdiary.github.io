@@ -6,5 +6,6 @@
     "theme": "luigi-mansion3",
     "background": "hotel.png",
     "thumbnail": "title.png",
-    "sub_series": ["series"]
+    "sub_series": ["series"],
+    "completed": true
 }
